@@ -1,0 +1,30 @@
+REMAINDER FUNCTION:
+(remainder x y) ? integer
+  x : integer
+  y : integer
+Determines the remainder of dividing the first by the second integer (exact or inexact).
+> (remainder 9 2)
+1
+> (remainder 3 4)
+3
+
+MODULO FUNCTION:
+(modulo n m) ? integer?
+  n : integer?
+  m : integer?
+Returns q with the same sign as m where
+(abs q) is between 0 (inclusive) and (abs m) (exclusive), and
+
+the difference between q and (- n (* m (quotient n m))) is a multiple of m.
+
+If m is exact 0, the exn:fail:contract:divide-by-zero exception is raised.
+
+Examples:
+> (modulo 10 3)
+1
+> (modulo -10.0 3)
+2.0
+> (modulo 10.0 -3)
+-2.0
+> (modulo -10 -3)
+-1

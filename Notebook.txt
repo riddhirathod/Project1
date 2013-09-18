@@ -1,0 +1,39 @@
+Date  Who       Start Stop  Interruptions Question TimeOnTask    Comments
+
+9/16  RR     	20:05 20:17 	2          1        12           Analyzed and solved Q1.
+9/16  RR     	20:19 20:30     2          2        11           Started thinking about Q2 and solved it.
+9/16  RR     	20:30 20:35  	1          3        5            Thinking about Q3. 
+9/16  RR     	20:35 20:46  	2          3        11           Anayzed and solved Q3.
+9/16  RR     	20:46 21:14  	1          4        28           Thinking about Q4; took break.
+9/16  RR     	22:23 22:57  	4          4        34           Resumed studies and analyzing Q4. Done solving Q4.
+9/16  RR     	22:58 23:00  	0          5        2            Thinking about Q5.
+9/16  RR     	23:00 23:09  	0          5        9            Analyzed and solved Q5.
+9/16  RR     	23:10 23:26  	2          6        6            Thinking about Q6. Solved Q6.
+9/16  RR     	23:27 23:30 	0          7        3            Understood Q7.Puzzling over Q7
+9/16  RR     	23:31 23:45 	2          7        14           Done with Q7.
+9/16  RR     	23:46 23:57 	0          8        9            Read and understood Q8. Solved Q8
+9/16  RR     	23:58 23:57 	1          9,10     9            Read Q9. Will solve Q9 later. Moving onto Q10.
+9/18  RR        13:30 13:45	1	   9	    15		 Solved Q9.	
+============committing to git: 9/18 13:50 ===================
+    
+Total Time On Task Q1 (minutes)                  12 
+Total Time On Task Q2 (minutes)                  11 
+Total Time On Task Q3 (minutes)                  16 
+Total Time On Task Q4 (minutes)                  62 
+Total Time On Task Q5 (minutes)                  11 
+Total Time On Task Q6 (minutes)                  6 
+Total Time On Task Q7 (minutes)                  17 
+Total Time On Task Q8 (minutes)                  9 
+Total Time On Task Q9 (minutes)                  17 
+Total Time On Task Q10 (minutes)                 7
+ 
+TOTQ1 (hours and tenths)                         0.12 
+TOTQ2 (hours and tenths)                         0.11
+TOTQ1 (hours and tenths)                         0.16
+TOTQ1 (hours and tenths)                         1.02
+TOTQ1 (hours and tenths)                         0.11
+TOTQ1 (hours and tenths)                         0.06
+TOTQ1 (hours and tenths)                         0.17
+TOTQ1 (hours and tenths)                         0.09
+TOTQ1 (hours and tenths)                         0.17
+TOTQ1 (hours and tenths)                         0.07
